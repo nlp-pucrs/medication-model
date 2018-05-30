@@ -1,2 +1,3 @@
 # medication-model
-Generating Medication Model with DDC-Outlier
+
+filename is the name of the csv file containing prescription data
